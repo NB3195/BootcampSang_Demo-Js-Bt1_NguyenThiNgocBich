@@ -9,7 +9,7 @@
 /**
  * Phân Tích
  * Input : 1 ngày (100.000)
- *Giai thuật : 
+ *Giải thuật : 
  - Người dùng nhập vào số ngày làm .
  - Tiền Lương : lương 1 ngày (100.000) * Số ngày làm.
  * Output : Hiển thị ra màn hình console.
